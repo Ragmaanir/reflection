@@ -1,0 +1,18 @@
+name: reflection
+version: 0.0.1
+
+authors:
+  - ragmaanir <ragmaanir@gmail.com>
+
+license: MIT
+
+
+# dependencies:
+#   kontrakt:
+#     github: Ragmaanir/kontrakt
+#     version: ~> 0.1
+
+development_dependencies:
+  microtest:
+    github: ragmaanir/microtest
+    branch: master
